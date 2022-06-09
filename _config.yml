@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "기록하는 기술 블로그 Blog"
+title                    : "✍ 기록하는 개발자 Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jekim"
-description              : "기록하는 기술 블로그"
+subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+name                     : "JJeongEun"
+description              : "기록하자!!"
 url                      : "https://jekim94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "기록하는 기술 블로그" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "jekim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "JJeongEun"
+  avatar           : "image/profile/littletube.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Blog 시작**<br>2022.06 ~ "
-  location         : "Somewhere"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
