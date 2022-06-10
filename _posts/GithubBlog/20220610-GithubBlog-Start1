@@ -1,0 +1,44 @@
+---
+title: "[GithubBlog] 글 써보기"
+categories:
+  - GithubBlog
+tags:
+  - minimal mistakes
+  - jekyll
+  - blog
+toc: true
+toc_sticky: true
+toc_label: "POSTING"
+toc_icon: "blog"
+---
+
+📌 **작성자 개발 환경** <br>
+**OS** : Windows 10<br>
+**Tool** : Visual Studio Code<br>
+{: .notice--primary}
+
+이제 본격적으로 포스팅 올리는 방법에 대해서 설명드리겠습니다.<br>
+minimal mistakes의 경우 양식이 정해져있어서, 한번 익숙해지시면 손쉽게 포스팅 가능하실껍니다.<br>
+<br>
+
+# 폴더 생성하기
+
+- 생성 파일 : github.io 폴더 > _posts 폴더
+
+![image](https://user-images.githubusercontent.com/45550607/102193457-737bae00-3eff-11eb-9176-b97e0a487715.png)
+{: .text-center}
+
+이전에 docs 파일을 참고하여, 포스팅 글을 정리할 폴더 _posts를 생성하였습니다.<br>
+여기까지만 하면, 포스팅은 충분히 등록할 수 있습니다.<br>
+<br>
+하지만 이렇게만 업데이트하면 관리가 어려울 것 같아서 각 카테고리마다 추가적으로 폴더화했습니다.<br>
+어떤 분은 연도마다 하시기도 하시더라구요!<br>
+<br>
+필수사항은 아니니 이렇게 할 수도 있구나로 생각해주시면 될 것같습니다.<br>
+
+![image](https://user-images.githubusercontent.com/45550607/102195867-79bf5980-3f02-11eb-86f3-66ebf19cc679.png)<br>
+(카테고리 별 폴더화 ; 제 정리 방법입니다. 필수는 아니에요!)
+{: .text-center}
+<br>
+<br>
+<br>
